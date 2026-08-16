@@ -93,5 +93,4 @@ Save previous simulation results.
 Pavani Thulasi Swarna
 B.Tech – Computer Science & Engineering
 SRM University AP
-B.Tech – Computer Science & Engineering
-SRM University AP
+
